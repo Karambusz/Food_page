@@ -1,0 +1,21 @@
+{
+	"camelcase" : true,
+	"indent": 2,
+	"undef": true,
+	"quotmark": false,
+	"maxlen": 250,
+	"trailing": true,
+	"curly": true,
+	"strict": false,
+	"browser": true,
+	"devel": true,
+	"jquery": true,
+	"esversion": 9,
+	"node": true,
+	"globals": {
+		"EventEmitter": true,
+		"Promise": true,
+		"module": false
+	  }
+	
+}
